@@ -421,7 +421,7 @@ This is not a mistake from me, this is what I found in the old version of the ga
 
 *Example: 'Classroom 18' is designated as 'Classroom 8' by the Ouija Board*
 
-[Click here to see the full list.](MapRooms/Brownstone_High_School_rooms.txt)
+[Click here to see the full list.](MapRooms/Brownstone_High_School.txt)
 
 ##### Known bugs
 
@@ -432,7 +432,7 @@ This is not a mistake from me, this is what I found in the old version of the ga
 
 There are **120** rooms.
 
-[Click here to see the full list.](MapRooms/Asylum_Rooms.txt)
+[Click here to see the full list.](MapRooms/Asylum.txt)
 
 ##### Known bugs
 
