@@ -2,6 +2,8 @@
 
 ### By VisionElf
 
+---
+
 # Table of Contents
 
 1. [Ghost Room](#ghost-room)
@@ -30,6 +32,8 @@
 4. [Ghost Types](#ghost-types)
 5. [Maps](#maps)
 6. [Advanced Details](#advanced-details)
+
+---
 
 ## Ghost Room
 
@@ -85,10 +89,15 @@ Because of how it works, the **Spirit Box** can be used to find the ghost room. 
 
 See [Spirit Box](#spirit-box) for more details
 
-For a quick summarize, if you hear something from the **Spirit Box** you're either **in the ghost's favourite room** or **less than 3 meters** away from the ghost.
+**TLDR**
+
+- If you hear something from the **Spirit Box** you're either **in the ghost's favourite room** or **less than 3 meters** away from the ghost.
+- The **Spirit Box** will work as long as the **player** in the ghost's range, even if the item itself is not near the ghost.
 
 ### EMF Reader (Room search)
 ### Misc
+
+---
 
 ## Evidences
 
@@ -96,9 +105,17 @@ For a quick summarize, if you hear something from the **Spirit Box** you're eith
 
 **Associated equipment:** EMF Reader
 
+**Witnessing the evidence:**
+
+- The **EMF Reader** shows an **EMF Level 5** *(all 5 lights are on)*.
+
 ### Spirit Box
 
 **Associated equipment:** Spirit Box
+
+**Witnessing the evidence:**
+
+- Any sound comes from the **Spirit Box**.
 
 **Mechanics**
 
@@ -106,7 +123,7 @@ Whenever you ask the ghost a question, there are multiple checks.
 
 If any of these checks fail, it will write **NOTHING DETECTED** in the Spirit Box screen.
 
-*Note: if your vocal recognition is not setup correctly,  nothing will happen, and that message will not show up.*
+*Note: if your vocal recognition is not setup correctly, nothing will happen, and that message will not show up.*
 
 The checks are in that order:
 
@@ -123,6 +140,8 @@ The checks are in that order:
 Then there is a random **33% chance** that the response will **fails**, unless you have said the **ghost's first name** in the last **20 seconds**.
 
 *Note: This random check never happens in tutorial.*
+
+As you might have noticed, there is **no checks** on the **Spirit Box** position. Therefore, the **Spirit Box** is not required to be near you or the ghost to be working.
 
 **Spirit Box Questions & Responses**
 
@@ -172,17 +191,38 @@ Responses:
 
 **Associated equipment:** UV flashlight, Photo Camera
 
+**Witnessing the evidence:**
+
+- The **UV Flashlight** reveals a **Fingerprint** on a door, a light switch or a windows.
+- Any photo taken by the **Photo Camera** is titled *Fingerprints*.
+
 ### Ghost Orb
 
 **Associated equipment:** Video Camera, Head-mounted Camera
+
+**Witnessing the evidence:**
+
+- An **Orb** can be seen through the truck's screen.
 
 ### Ghost Writing
 
 **Associated equipment:** Ghost Book
 
+**Witnessing the evidence:**
+
+- The **Ghost Book** has writing on it.
+
 ### Freezing Temperature
 
 **Associated equipment:** Thermometer
+
+**Witnessing the evidence:**
+
+- Being inside the room will create **Cold Breath**.
+- The room temperature is **below 3°C**.
+- The room temperature has **dropped very quickly** in a **short amount of time**.
+
+---
 
 ## Objectives
 
@@ -323,6 +363,8 @@ When the **Ouija Fail** occurs it will:
 2. Turn off the **Ouija Board**
 3. Remove **40%** from the player's **sanity**
 
+---
+
 ## Maps
 
 [Click here to see the maps images with more informations for each maps. (Ouija Boar spawns and Cameras)](https://imgur.com/a/A4oBdma)
@@ -429,6 +471,10 @@ There are **120** rooms.
 
 [Click here to see the full list.](MapRooms/Asylum.txt)
 
+---
+
 ## Ghost Types
+
+---
 
 ## Advanced Details
