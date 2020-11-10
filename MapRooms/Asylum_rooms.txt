@@ -1,0 +1,120 @@
+Barber Shop
+Basement Corridor
+Bathroom 1
+Bathroom 2
+Beauty Shop
+Cafeteria
+Conference Room
+Day Room 1
+Day Room 2
+Day Room 3
+Day Room 4
+Dentist
+Doctor
+Electrical Equipment
+Four Bedroom 1
+Four Bedroom 2
+Four Bedroom 3
+Four Bedroom 4
+Four Bedroom 5
+Four Bedroom 6
+Four Bedroom 7
+Four Bedroom 8
+Four Bedroom 9
+Four Bedroom 10
+Kitchen
+Laundry 1
+Laundry 2
+Left Corridor
+Left Machine Room
+Left Staircase
+Left Trash Room
+Linen Storage
+Lobby
+Lockers 1
+Lockers 2
+Lockers 3
+Lounge 2
+Lounge 3
+Lounge 4
+Male Toilet
+Mechanical Equipment
+Middle Corridor
+Middle Machine Room
+Nurse
+Nurse 2
+Nurse 3
+Occupational Therapy
+Office 1
+Office 2
+Office 3
+Office 4
+Office 5
+Office 6
+Office 7
+Office 8
+Office 9
+Office 10
+Office 11
+Office 12
+Office 13
+Outside
+Recreational Therapy
+Right Corridor
+Right Machine Room
+Right Staircase
+Right Trash Room
+Six Bedroom 1
+Six Bedroom 2
+Six Bedroom 3
+Six Bedroom 4
+Six Bedroom 5
+Six Bedroom 6
+Six Bedroom 7
+Six Bedroom 8
+Six Bedroom 9
+Six Bedroom 10
+Six Bedroom 11
+Six Bedroom 12
+Staff Canteen
+Staff Kitchen
+Staff Kitchen 2
+Storage 1
+Storage 2
+Storage 3
+Storage 4
+Storage 5
+Storage 6
+Storage 7
+Storage 8
+Storage 10
+Storage 11
+Storage 12
+Storage 13
+Storage 14
+Storage 15
+Storage 16
+Storage 17
+Telephones
+Toilet 1
+Toilet 3
+Toilet 4
+Toilet 5
+Toilet 6
+Toilet 7
+Toilet 8
+Toilet 9
+Toilet 10
+Toilet 11
+Trash
+Two Bedroom 1
+Two Bedroom 2
+Two Bedroom 3
+Two Bedroom 4
+Two Bedroom 5
+Two Bedroom 6
+Utility 1
+Utility 2
+Visiters Lounge
+Visiting Left
+Visiting Right

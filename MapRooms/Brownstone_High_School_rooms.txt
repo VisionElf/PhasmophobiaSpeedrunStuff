@@ -1,0 +1,58 @@
+Basketball Court
+Boys Bathroom
+Boys Bathroom
+Boys Locker Room
+Boys Teachers Bathroom
+Boys Teachers Bathroom
+Cafeteria
+Class Room 1
+Class Room 2
+Class Room 3
+Class Room 4
+Class Room 4
+Class Room 5
+Class Room 5
+Class Room 6
+Class Room 7
+Class Room 8
+Class Room 8
+Class Room 9
+Class Room 10
+Class Room 11
+Class Room 12
+Class Room 13
+Class Room 14
+Class Room 15
+Class Room 16
+Class Room 16
+Class Room 17
+Class Room 19
+Class Room 20
+Class Room 21
+Class Room 22
+Class Room 23
+Class Room 26
+Class Room 27
+Class Room 28
+Class Room 29
+Class Room 30
+Class Room 31
+Class Room 32
+Class Room 33
+Class Room 34
+Class Room 35
+Class Room 37
+Girls Bathroom
+Girls Bathroom
+Girls Locker Room
+Girls Teachers Bathroom
+Girls Teachers Bathroom
+Lecture Hall
+Library
+Lobby
+Science Class Room
+Science Class Room 2
+Science Class Room 3
+Science Class Room 4
+Storage Room 1
+Storage Room 2
