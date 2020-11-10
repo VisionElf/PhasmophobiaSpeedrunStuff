@@ -218,7 +218,7 @@ Responses:
 
 **Witnessing the evidence:**
 
-- Being inside the room will create **Cold Breath**.
+- You're seeing **Cold Breath** inside the room.
 - The room temperature is **below 3°C**.
 - The room temperature has **dropped very quickly** in a **short amount of time**.
 
