@@ -325,11 +325,9 @@ When the **Ouija Fail** occurs it will:
 
 ## Maps
 
+[Click here to see the maps images with more informations for each maps. (Ouija Boar spawns and Cameras)](https://imgur.com/a/A4oBdma)
+
 ### Tanglewood Street House
-
-##### Short description
-
-1 story building
 
 ##### Possible Rooms
 
@@ -358,7 +356,6 @@ There are **11** rooms.
 
 ### Edgefield Street House
 
-##### Short description
 ##### Possible Rooms
 
 There are **16** rooms.
@@ -377,10 +374,10 @@ There are **16** rooms.
 
 - Upstairs Hallway
 - Bathroom
-- Boys Teen Bedroom
 - Girls Kid Bedroom
 - Girls Teen Bedroom
 - Girls Teen Bedroom
+- Boys Teen Bedroom
 - Boys Teen Bedroom
 - Master Bedroom
 
@@ -388,29 +385,24 @@ There are **16** rooms.
 
 - Basement
 
-##### Known bugs
-
 ### Ridgeview Road House
 
-##### Short description
 ##### Possible Rooms
-##### Known bugs
+##### Tips & Tricks
+
+- **Ridgeview** is one of the only map that has **multiple rooms without any separation** *(doors or walls)*. Because of that, it is often difficult to localize the ghost's **favourite room** if he spawns in that area.
+- You can teleport to the truck using the **Closet Glitch** in the **Garage**.
 
 ### Grafton Farmhouse
 
-##### Short description
 ##### Possible Rooms
-##### Known bugs
 
 ### Bleasdale Farmhouse
 
-##### Short description
 ##### Possible Rooms
-##### Known bugs
 
 ### Brownstone Highschool
 
-##### Short description
 ##### Possible Rooms
 
 There are **58** rooms.
@@ -423,7 +415,10 @@ This is not a mistake from me, this is what I found in the old version of the ga
 
 [Click here to see the full list.](MapRooms/Brownstone_High_School.txt)
 
-##### Known bugs
+##### Tips & Tricks
+
+- The best way to find the room is to listen for **noises**, specifically the **telephones**.
+- Although you might found a temperature lower than **13°C** in the corridors because of its movement, the ghost's **favourite room** will never be the corridors.
 
 ### Asylum
 
@@ -433,8 +428,6 @@ This is not a mistake from me, this is what I found in the old version of the ga
 There are **120** rooms.
 
 [Click here to see the full list.](MapRooms/Asylum.txt)
-
-##### Known bugs
 
 ## Ghost Types
 
