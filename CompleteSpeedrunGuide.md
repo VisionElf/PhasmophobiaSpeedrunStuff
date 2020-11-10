@@ -7,8 +7,8 @@
 1. [Ghost Room](#ghost-room)
 	- [Ghost sounds](#ghost-sounds)
 	- [Room temperature](#room-temperature)
-	- [Spirit Box](#spirit-box)
-	- [EMF Reader](#emf-reader)
+	- [Spirit Box](#spirit-box-room-search)
+	- [EMF Reader](#emf-reader-room-search)
 	- [Misc](#misc)
 2. [Evidences](#evidences)
 	- [EMF Level 5](#emf-level-5)
@@ -79,13 +79,32 @@ The temperature is clamped by a minimum and a maximum, also depending on the **F
 
 Because every room starts at **15°C** and never change unless the ghost has walking in it, and because the **Thermometer** has an **error of +/- 2°C**, you can guess which room is the correct one if you see a temperature that is **lower** than **13°C**.
 
-### Spirit Box
+### Spirit Box (Room search)
 
 Because of how it works, the **Spirit Box** can be used to find the ghost room. This can obviously only works when **Spirit Box** is evidence of the current ghost type.
 
+See [Spirit Box](#spirit-box) for more details
+
+For a quick summarize, if you hear something from the **Spirit Box** you're either **in the ghost's favourite room** or **less than 3 meters** away from the ghost.
+
+### EMF Reader (Room search)
+### Misc
+
+## Evidences
+
+### EMF Level 5
+
+**Associated equipment:** EMF Reader
+
+### Spirit Box
+
+**Associated equipment:** Spirit Box
+
+**Mechanics**
+
 Whenever you ask the ghost a question, there are multiple checks.
 
-If any of these checks fail, it will write **NOT DETECTED** in the Spirit Box screen.
+If any of these checks fail, it will write **NOTHING DETECTED** in the Spirit Box screen.
 
 *Note: if your vocal recognition is not setup correctly,  nothing will happen, and that message will not show up.*
 
@@ -105,18 +124,49 @@ Then there is a random **33% chance** that the response will **fails**, unless y
 
 *Note: This random check never happens in tutorial.*
 
-### EMF Reader
-### Misc
+**Spirit Box Questions & Responses**
 
-## Evidences
+There 3 type of questions. For each of these question types, you can hear different sounds.
 
-### EMF Level 5
+Location sounds can be used to determine ghost's distance from you.
 
-**Associated equipment:** EMF Reader
+**Location**
 
-### Spirit Box
+*Example: "Where are you?"*
 
-**Associated equipment:** Spirit Box
+Responses:
+
+*If you are less than 4 meters away from the ghost:*
+
+- Here
+- Close
+- Next
+
+*If you are more than 4 meters away from the ghost:*
+
+- Behind
+- Away
+- Far
+
+**Age**
+*Example: "How old are you?"*
+
+Responses:
+
+- Child
+- Adult
+- Old
+
+**Difficulty**
+
+*Example: "What do you want?"*
+
+Responses:
+
+- Death
+- Kill
+- Hurt
+- Hate
 
 ### Fingerprints
 
