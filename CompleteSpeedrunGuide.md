@@ -168,6 +168,7 @@ Responses:
 - [Far](Sounds/SpiritBox/Far.wav)
 
 **Age**
+
 *Example: "How old are you?"*
 
 Responses:
@@ -205,6 +206,12 @@ Responses:
 
 - An **Orb** can be seen through the truck's screen.
 
+**Mechanics**
+
+- The Orb spawns at the beginning of the game, if the ghost has the evidence
+- There is only one orb, and it moves randomly around its starting position
+- The starting position is random, but it should be near the middle of the room
+
 ### Ghost Writing
 
 **Associated equipment:** Ghost Book
@@ -212,6 +219,12 @@ Responses:
 **Witnessing the evidence:**
 
 - The **Ghost Book** has writing on it.
+
+**Mechanics**
+
+- When a player says a **Trigger Phrase**, the ghost has a small chance of Writing in the book, if it's in its range
+- Any interactable props, including the **Ghost Book** are never removed from the ghost's prop list when they are picked up from the ground, until the prop is thrown or placed on the ground near the ghost
+- Therefore, you can place the book in ghost's interaction range, and take the book back to the truck, and the ghost will still be able to interact with it [Example](https://www.youtube.com/watch?v=6lUrclEtxnE)
 
 ### Freezing Temperature
 
