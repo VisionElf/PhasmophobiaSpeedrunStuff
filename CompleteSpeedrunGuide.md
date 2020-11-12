@@ -157,24 +157,24 @@ Responses:
 
 *If you are less than 4 meters away from the ghost:*
 
-- Here
-- Close
-- Next
+- [Here](Sounds/SpiritBox/Here.wav)
+- [Close](Sounds/SpiritBox/Close.wav)
+- [Next](Sounds/SpiritBox/Next.wav)
 
 *If you are more than 4 meters away from the ghost:*
 
-- Behind
-- Away
-- Far
+- [Behind](Sounds/SpiritBox/Behind.wav)
+- [Away](Sounds/SpiritBox/Away.wav)
+- [Far](Sounds/SpiritBox/Far.wav)
 
 **Age**
 *Example: "How old are you?"*
 
 Responses:
 
-- Child
-- Adult
-- Old
+- [Child](Sounds/SpiritBox/Child.wav)
+- [Adult](Sounds/SpiritBox/Adult.wav)
+- [Old](Sounds/SpiritBox/Old.wav)
 
 **Difficulty**
 
@@ -182,10 +182,11 @@ Responses:
 
 Responses:
 
-- Death
-- Kill
-- Hurt
-- Hate
+- [Death](Sounds/SpiritBox/Death.wav)
+- [Kill](Sounds/SpiritBox/Kill.wav)
+- [Hurt](Sounds/SpiritBox/Hurt.wav)
+- [Hate](Sounds/SpiritBox/Hate.wav)
+- [Die](Sounds/SpiritBox/Die.wav)
 
 ### Fingerprints
 
