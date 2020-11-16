@@ -6,20 +6,21 @@
 
 # Table of Contents
 
-1. [Ghost Room](#ghost-room)
+- [Introduction](#introduction)
+- [Ghost Room](#ghost-room)
 	- [Ghost sounds](#ghost-sounds)
 	- [Room temperature](#room-temperature)
 	- [Spirit Box](#spirit-box-room-search)
 	- [EMF Reader](#emf-reader-room-search)
 	- [Misc](#misc)
-2. [Evidences](#evidences)
+- [Evidences](#evidences)
 	- [EMF Level 5](#emf-level-5)
 	- [Spirit Box](#spirit-box)
 	- [Fingerprints](#fingerprints)
 	- [Ghost Orb](#ghost-orb)
 	- [Ghost Writing](#ghost-writing)
 	- [Freezing Temperature](#freezing-temperature)
-3. [Objectives](#objectives)
+- [Objectives](#objectives)
 	- [EMF Reader Objective](#emf-reader-objective)
 	- [Thermometer Objective](#thermometer-objective)
 	- [Salt Objective](#salt-objective)
@@ -29,9 +30,38 @@
 	- [Ghost Photo Objective](#ghost-photo-objective)
 	- [Dirty Water Objective](#dirty-water-objective)
 	- [Crucifix Objective](#crucifix-objective)
-4. [Ghost Types](#ghost-types)
-5. [Maps](#maps)
-6. [Advanced Details](#advanced-details)
+- [Ghost Types](#ghost-types)
+- [Maps](#maps)
+- [Advanced Details](#advanced-details)
+
+---
+
+## Introduction
+
+Phasmophobia is a game where you need to investigate a haunted building.
+
+There are 4 objectives, 1 mandatory and 3 optionals.
+
+The mandatory objective is to know which ghost type is haunting using provided equipments.
+
+You can see the possible objectives with more details under [Objectives](#objectives).
+
+Each ghost types has 3 evidences and there are 6 different evidences. Check all the evidences with more details under [Evidences](#evidences).
+
+### Speedrun rules
+
+The speedrun rules can be found in the [speedrun.com](https://www.speedrun.com/phasmophobia) website under **View Rules**. The most important ones are:
+
+- You have to **witness** all 3 evidences. Guessing is not allowed.
+- All 3 evidences must be seen in one or multiple recordings.
+
+Categories:
+
+**Any%** - You have to witness all 3 evidences and know the ghost type.
+
+**100%** - You have to know the ghost type AND complete all 3 optionals objectives.
+
+**Full Game** - You have to complete all 7 maps in one run.
 
 ---
 
@@ -108,6 +138,31 @@ See [Spirit Box](#spirit-box) for more details
 **Witnessing the evidence:**
 
 - The **EMF Reader** shows an **EMF Level 5** *(all 5 lights are on)*.
+
+**Mechanics**
+
+Whenever the ghost interacts with something or appear, **EMF Zone** are created at the position of the interaction.
+
+- **EMF Zone 1**: Created when the ghost **interacts** with **doors, lightswitches, windows and specific props** *(like telephones)*
+- **EMF Zone 2**: Created when the ghost **throw an object**.
+- **EMF Zone 3**: Created when the ghost has **appeared** recently.
+- **EMF Zone 4**: There is a **33% chance** that an **EMF Zone 1 or 2** will be a **EMF Zone 4** instead, if the ghost has **EMF Level 5** evidence.
+
+The **EMF reader** will reads an EMF Level with the number of the zone + 1.
+
+*Example: EMF Zone 3 is seen as EMF Level 4 by the reader.*
+
+Whenever an EMF Zone is created, the **Total Activity** graph in the truck gets increased by the level of that zone.
+
+If you see an **+4** increased in the graph, you can be sure that it's an **EMF Level 5**, except if:
+
+- A player is/was in the room and said **phrases**, making **multiple interactions** in short amount of time
+- The ghost is a **Poltergeist**, and threw **exactly 2 objects** at the **same time**.
+
+Explanations in videos:
+
+- [How to read Total Activity](https://www.youtube.com/watch?v=7Sxcaf-d8bg)
+- [Poltergeist Activity](https://www.youtube.com/watch?v=5lwzrqEuUoE)
 
 ### Spirit Box
 
