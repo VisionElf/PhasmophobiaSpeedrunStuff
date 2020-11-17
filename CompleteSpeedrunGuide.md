@@ -30,9 +30,9 @@
 	- [Ghost Photo Objective](#ghost-photo-objective)
 	- [Dirty Water Objective](#dirty-water-objective)
 	- [Crucifix Objective](#crucifix-objective)
-- [Ghost Types](#ghost-types)
 - [Maps](#maps)
-- [Advanced Details](#advanced-details)
+- [Ghost Types](#ghost-types)
+- [Strategies](#strategies)
 
 ---
 
@@ -112,6 +112,8 @@ The temperature is clamped by a minimum and a maximum, also depending on the **F
 - Minimum is **-10°C** for **Freezing Temperature** and **5°C** for non-freezing.
 
 Because every room starts at **15°C** and never change unless the ghost has walking in it, and because the **Thermometer** has an **error of +/- 2°C**, you can guess which room is the correct one if you see a temperature that is **lower** than **13°C**.
+
+[Here is a graph showing the temperature drops.](https://i.imgur.com/V36iiS0.jpg)
 
 ### Spirit Box (Room search)
 
@@ -499,6 +501,34 @@ There are **16** rooms.
 ### Ridgeview Road House
 
 ##### Possible Rooms
+
+There are **16** rooms.
+
+**First Floor**
+
+- Foyer
+- Dining Room
+- Living Room
+- Kitchen
+- Utility
+- Toilet
+- Hallway
+- Garage
+- Master Bedroom
+
+**Second Floor**
+
+- Bathroom
+- Teen Boys Bedroom
+- Boys Bedroom
+- Girls Bedroom
+- Upstairs Hallway
+- Upstairs Toilet
+
+**Basement**
+
+- Basement
+
 ##### Tips & Tricks
 
 - **Ridgeview** is one of the only map that has **multiple rooms without any separation** *(doors or walls)*. Because of that, it is often difficult to localize the ghost's **favourite room** if he spawns in that area.
@@ -508,9 +538,57 @@ There are **16** rooms.
 
 ##### Possible Rooms
 
+There are **13** rooms.
+
+**First Floor**
+
+- Foyer
+- Living Room
+- Dining Room
+- Twin Bedroom
+- Kitchen
+- Master Bedroom
+- Utility
+- Storage
+
+**Second Floor**
+
+- Upstairs Hallway
+- Upstairs Bathroom
+- Nursery
+- Storage
+- Upstairs Bedroom
+
 ### Bleasdale Farmhouse
 
 ##### Possible Rooms
+
+There are **16** rooms.
+
+**First Floor**
+
+- Foyer
+- Office
+- Living Room
+- Kitchen
+- Dining Room
+- Toilet
+- Hallway
+- Garage
+
+**Second Floor**
+
+- Hallway
+- Bathroom
+- Utility
+- Master Bedroom
+- Girls Bedroom
+- Boys Bedroom
+- Side Bathroom
+
+**Attic**
+
+- Attic
 
 ### Brownstone Highschool
 
@@ -533,7 +611,6 @@ This is not a mistake from me, this is what I found in the old version of the ga
 
 ### Asylum
 
-##### Short description
 ##### Possible Rooms
 
 There are **120** rooms.
@@ -544,6 +621,84 @@ There are **120** rooms.
 
 ## Ghost Types
 
+There are currently **12** type of ghosts in the game.
+
+- Spirit
+- Wraith
+- Phantom
+- Poltergeist
+- Banshee
+- Jinn
+- Mare
+- Revenant
+- Shade
+- Demon
+- Yurei
+- Oni
+
 ---
 
-## Advanced Details
+## Strategies
+
+### 100%
+
+#### One-trip Banshee/Wraith
+
+This strategy should be one of the most optimal strategy because it doesn't require any trip to the truck.
+
+However it is very unreliable as the requirements may be painful to get.
+
+**Objectives**
+
+- Restart if any objective requires any extra equipment, except for **Photos**
+- Here is the list of the objectives you should look for:
+	- EMF
+	- Thermometer
+	- Ghost Event
+	- Ghost Picture
+	- Dirty Water
+
+**Items**
+
+- **Thermometer**
+- **EMF Reader**
+- **UV Flashlight** OR **Photo Camera** *(if you have any photo objective)*
+- **SpiritBox** but you leave it in the truck
+
+**Ghosts**
+
+- Banshee
+	- EMF 5
+	- Fingerprints
+	- Freezing Temperature
+- Wraith
+	- Spirit Box
+	- Fingerprints
+	- Freezing Temperature
+
+**Description**
+
+Because you should have already all the items with you, no trip to the truck is required, as long as you have the correct ghost (Banshee or Wraith).
+
+### Tutorial
+
+#### Revenant
+
+**Rooms**
+
+- **Foyer**
+- **Main Bathroom**
+- **Boys Bedroom**
+- **Nursery**
+
+**Items**
+
+- **EMF Reader**
+- **UV Flashlight**
+- **Ghost Book**
+
+- Walk into the room, put the **EMF Reader** and **Ghost Book** on the floor
+- Trigger the ghost using **Phrases**
+- Wait for the ghost to touch a door, and leave a **Fingerprint** AND an **EMF Level 5** at the same time
+- Continue spamming and wait for **Ghost Writing**
+- Leave the house when you got all three evidences and close the truck
