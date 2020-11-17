@@ -33,6 +33,8 @@
 - [Maps](#maps)
 - [Ghost Types](#ghost-types)
 - [Strategies](#strategies)
+- [Advanced Details](#advanced-details)
+	- [Ghost States](#ghost-states)
 
 ---
 
@@ -704,3 +706,37 @@ Because you should have already all the items with you, no trip to the truck is 
 - Wait for the ghost to touch a door, and leave a **Fingerprint** AND an **EMF Level 5** at the same time
 - Continue spamming and wait for **Ghost Writing**
 - Leave the house when you got all three evidences and close the truck
+
+---
+
+## Advanced Details
+
+### Ghost States
+
+There are **25** possible states the ghost can enter.
+
+- **Idle** - The ghost **stands still** and **does nothing**.
+- **Wander** - The ghost moves to a random position.
+- **Hunting** - The ghost hunts.
+- **FavouriteRoom** - The ghost moves to a random position inside its **favourite room**.
+- **Light** - The ghost toggles a **Light**
+- **Door** - The ghost touch a **Door**
+- **Throwing** - The ghost throws an object.
+- **Fusebox** - The ghost turns the **Fusebox** off.
+- **Appear** - The ghost appears. **THIS STATE DOES NOT COUNT AS GHOST EVENT**
+- **DoorKnock** - The ghost knocks on a **Door**.
+- **WindowKnock** - The ghost knocks on a **Window**.
+- **CarAlarm** - The ghost interacts with a **Car**.
+- **Radio** - The ghost interacts with a **Radio**
+- **Flicker** - The ghost **flickers** the lights.
+- **Cctv** - The ghost turns a **Video Camera** off.
+- **RandomEvent** - The ghost does a random **Ghost Event**.
+- **GhostAbility** - The ghost executes its **Ability** *(For these ghosts: Wraith, Phantom, Poltergeist, Banshee, Jinn)*
+- **KillPlayer** - The ghost kills a player.
+- **Sink** - The ghost create **Dirty Water** in a sink.
+- **Painting** - The ghost drops a **Painting** from the wall.
+- **LockDoor** - The ghost locks a door. *(The ones you can find their keys)*
+- **Mannequin** - The ghost interacts with a **Mannequin**.
+- **Sound** - The ghost plays a sound from an object. *(Not sure if used in the game)*
+- **AnimationObject** - The ghost plays an animation from an object. *(Not sure if used in the game)*
+- **TeleportObject** - The ghost teleports an object. *(Not sure if used in the game)*
