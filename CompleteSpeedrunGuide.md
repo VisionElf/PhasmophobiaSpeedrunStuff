@@ -697,6 +697,8 @@ Because you should have already all the items with you, no trip to the truck is 
 - **UV Flashlight**
 - **Ghost Book**
 
+**Description**
+
 - Walk into the room, put the **EMF Reader** and **Ghost Book** on the floor
 - Trigger the ghost using **Phrases**
 - Wait for the ghost to touch a door, and leave a **Fingerprint** AND an **EMF Level 5** at the same time
